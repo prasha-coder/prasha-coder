@@ -84,16 +84,40 @@ Smart contact grouping and relation mapping.
 
 ## 🛠 Tech Stack
 
+### 💻 Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,swift,js,html,css,nodejs,python,c,cpp,java,linux,git,github,mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,php,dart,swift" />
+</p>
+
+### 🌐 Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
+</p>
+
+### ⚙️ Backend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs" />
+</p>
+
+### 🗄️ Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Hive-FFB300?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Hive-FFB300?style=for-the-badge"/>
+</p>
+
+### 📱 Mobile & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,linux,git,github" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/XML-FF6600?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/REST%20APIs-111827?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Local%20First-0B1220?style=for-the-badge"/>
 </p>
 
 ## 📊 GitHub Activity
