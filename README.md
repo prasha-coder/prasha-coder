@@ -85,12 +85,13 @@ Smart contact grouping and relation mapping.
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,js,nodejs,python,git,github,linux,vscode,firebase" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,swift,js,html,css,nodejs,python,c,cpp,java,linux,git,github,mongodb,mysql" />
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Hive-FFB300?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/REST%20APIs-111827?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Local%20First-0B1220?style=for-the-badge"/>
 </p>
