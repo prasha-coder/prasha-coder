@@ -84,20 +84,25 @@ Smart contact grouping and relation mapping.
 
 ## 🛠 Tech Stack
 
-### 💻 Languages
+### 🚀 Core Stack (What I Build With)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,nodejs,js,react,tailwind" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Mobile%20Apps-0f2027?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Backend-Node.js-339933?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/UI-React%20%2B%20Tailwind-38BDF8?style=for-the-badge"/>
+</p>
+
+---
+
+### 🧠 Languages
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,php,dart,swift" />
 </p>
 
-### 🌐 Frontend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
-</p>
-
-### ⚙️ Backend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs" />
-</p>
+---
 
 ### 🗄️ Databases
 <p align="center">
@@ -110,14 +115,26 @@ Smart contact grouping and relation mapping.
   <img src="https://img.shields.io/badge/Hive-FFB300?style=for-the-badge"/>
 </p>
 
-### 📱 Mobile & Tools
+---
+
+### ⚙️ Tools & Systems
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,linux,git,github" />
+  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/XML-FF6600?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/REST%20APIs-111827?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Local%20First-0B1220?style=for-the-badge"/>
+</p>
+
+---
+
+### ⚡ Engineering Mindset
+<p align="center">
+  <img src="https://img.shields.io/badge/Architecture-Clean%20Code-7C3AED?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Focus-Performance-00D4FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Goal-Real%20World%20Apps-FF4ECD?style=for-the-badge"/>
 </p>
 
 ## 📊 GitHub Activity
